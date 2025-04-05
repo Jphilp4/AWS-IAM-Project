@@ -18,10 +18,7 @@ This project deepened my understanding of **AWS IAM** and how it contributes to 
 If you’re interested in AWS or cloud security, let’s connect!  
 
 ## Connect with Me:
-Feel free to check out my other projects or connect with me on **[LinkedIn](https://www.linkedin.com/in/james-phillips-028141308/)** and **[GitHub](https://github.com/Jphilp4)**.
-
-## 🙏 Acknowledgments  
-A big shout-out to **NextWork** for their guidance and resources, which made learning AWS IAM both insightful and enjoyable.  
+Feel free to check out my other projects or connect with me on **[LinkedIn](https://www.linkedin.com/in/james-phillips-028141308/)** and **[GitHub](https://github.com/Jphilp4)**.  
 
 ## 📄 Documentation  
 Check out my detailed documentation here: [[aws-security-iam.pdf](https://github.com/user-attachments/files/17817224/aws-security-iam.pdf)
